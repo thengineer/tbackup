@@ -3,4 +3,4 @@ tbackup
 
 thengineer's backup tool.
 
-The backup solution, written in Python makes backups using hardlinks. Backups are stored on any destination that support hardlinks.
+Yet another backup tool written in Python. This one creates snapshots of the backup source and uses hardlinks to save space.
